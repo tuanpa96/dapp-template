@@ -1,0 +1,199 @@
+{
+  "items": [
+    {
+      "id": 34,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "9KnRz1XiM4EnPG7ziiYkhfsZJnv3MeyJ7nLU64JpLqx8",
+      "token_name": "Malaysia Ringgit",
+      "token_symbol": "reMYR",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.pngg",
+      "status": "success",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": [
+        {
+          "pool_address": "65y1HDCeiBiVjniAL76tc7t5H9oSiRNBuvo9d2feAzp2",
+          "token_a_mint_address": "9KnRz1XiM4EnPG7ziiYkhfsZJnv3MeyJ7nLU64JpLqx8",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "3JVvARFtkKwF6X8HQvt2GTTGsmaranqMk7YCn5RX7HG5",
+      "token_name": "Wrapped USD Coin",
+      "token_symbol": "rUSDC",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "status": "success",
+      "description": "ABC",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": []
+    },
+    {
+      "id": 36,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+      "token_name": "reUSD",
+      "token_symbol": "reUSD",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "status": "success",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": [
+        {
+          "pool_address": "57Cr19Gn3Qq1oc8nJs63yrDsoDn1ZYFwgqaR2WqLCfJy",
+          "token_a_mint_address": "So11111111111111111111111111111111111111112",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        },
+        {
+          "pool_address": "CYY6QDsFYqmJ2MtiS6EWbjnVR61EGWx89h9NfU7oK4Cw",
+          "token_a_mint_address": "DSodi59U9ZWRnVgP94VNnKamFybYpsqYj2iKL1jQF7Ag",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        },
+        {
+          "pool_address": "65y1HDCeiBiVjniAL76tc7t5H9oSiRNBuvo9d2feAzp2",
+          "token_a_mint_address": "9KnRz1XiM4EnPG7ziiYkhfsZJnv3MeyJ7nLU64JpLqx8",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        },
+        {
+          "pool_address": "7p8gez6GpcxUJBf6h31mmZvVe4E49LfmkHeiwmBx5YXP",
+          "token_a_mint_address": "CHe7TGhNzxpqiW6pdVJ2H2Mw5t7yHXTNyCfzJ1WFR5Dw",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "So11111111111111111111111111111111111111112",
+      "token_name": "RENEC",
+      "token_symbol": "RENEC",
+      "token_type": "core",
+      "logo_url": "https://remitano.com/coins/renec.png",
+      "status": "success",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": [
+        {
+          "pool_address": "57Cr19Gn3Qq1oc8nJs63yrDsoDn1ZYFwgqaR2WqLCfJy",
+          "token_a_mint_address": "So11111111111111111111111111111111111111112",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "DSodi59U9ZWRnVgP94VNnKamFybYpsqYj2iKL1jQF7Ag",
+      "token_name": "Renec Vietnam Dong",
+      "token_symbol": "reVND",
+      "token_type": "core",
+      "logo_url": "http://localhost:3969/rails/active_storage/disk/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDVG9JYTJWNVNTSWhZemMwTW5CellXdHBOMnQzWldOcGREZzRlR2s0Y25OcVlqa3laZ1k2QmtWVU9oQmthWE53YjNOcGRHbHZia2tpWldsdWJHbHVaVHNnWm1sc1pXNWhiV1U5SWxKbGJtVmpJRlpwWlhSdVlXMGdSRzl1Wnkxc2IyZHZMbkJ1WnlJN0lHWnBiR1Z1WVcxbEtqMVZWRVl0T0NjblVtVnVaV01sTWpCV2FXVjBibUZ0SlRJd1JHOXVaeTFzYjJkdkxuQnVad1k3QmxRNkVXTnZiblJsYm5SZmRIbHdaVWtpRG1sdFlXZGxMM0J1WndZN0JsUTZFWE5sY25acFkyVmZibUZ0WlRvS2JHOWpZV3c9IiwiZXhwIjoiMjAyMy0wNy0zMVQxNjozMzowNi43MDBaIiwicHVyIjoiYmxvYl9rZXkifX0=--66b1140533b4f3061e29a4e7e0c5f0a4cb6e7b90/Renec%20Vietnam%20Dong-logo.png",
+      "status": "success",
+      "description": "ABC",
+      "decimals": 0,
+      "pools": [
+        {
+          "pool_address": "CYY6QDsFYqmJ2MtiS6EWbjnVR61EGWx89h9NfU7oK4Cw",
+          "token_a_mint_address": "DSodi59U9ZWRnVgP94VNnKamFybYpsqYj2iKL1jQF7Ag",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR",
+      "token_name": "Vietnam Dong",
+      "token_symbol": "VNDR",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/MsT76FqGo4JDxLkq73X872VWN6yEWsRBpKUAyY5LFTR/logo.svg",
+      "status": "success",
+      "description": "ABC",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 0,
+      "pools": []
+    },
+    {
+      "id": 33,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "CHe7TGhNzxpqiW6pdVJ2H2Mw5t7yHXTNyCfzJ1WFR5Dw",
+      "token_name": "Renec Nigeria Naira",
+      "token_symbol": "reNGN",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "status": "success",
+      "description": "ABC",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": [
+        {
+          "pool_address": "7p8gez6GpcxUJBf6h31mmZvVe4E49LfmkHeiwmBx5YXP",
+          "token_a_mint_address": "CHe7TGhNzxpqiW6pdVJ2H2Mw5t7yHXTNyCfzJ1WFR5Dw",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "3RF3k6xEUQzEjtLSiK7maQxrDaQs9CqZ3pVYVaGyXmo6",
+      "coin_address": "23gvCwffARjM6qwygoWieYNWtwGjZD5Zatf95tWWQ8P5",
+      "token_name": "NemoSwap",
+      "token_symbol": "NEMO",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "status": "success",
+      "description": "ABC",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": []
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+version: 2.1
+orbs:
+  node: circleci/node@5.1.0
+
+commands:
+  install-npm-dependencies:
+    steps:
+      - node/install:
+          install-yarn: true
+          node-version: "18.12.1"
+      - run:
+          name: Node version check
+          command: node -v
+      - restore_cache:
+          keys:
+            - dependency-cache-{{ checksum "yarn.lock" }}
+            - dependency-cache-
+      - run:
+          name: Install dependencies
+          command: yarn install
+      - save_cache:
+          name: Save yarn cache
+          key: dependency-cache-{{ checksum "yarn.lock" }}
+          paths:
+            - node_modules
+            - ~/.cache/yarn
+            - ~/.cache/Cypress
+
+jobs:
+  build:
+    description: Build and Lint
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - checkout
+      - install-npm-dependencies
+      - run:
+          name: Build
+          command: yarn build
+      - run:
+          name: Lint
+          command: yarn lint
+
+  e2e-tests:
+    description: End-to-end tests
+    docker:
+      - image: cimg/base:stable
+    environment:
+      NEXT_PUBLIC_SITE_URL: http://localhost:3000
+    steps:
+      - checkout
+      - install-npm-dependencies
+      - run:
+          name: install Linux dependencies for Cypress
+          command: |
+            sudo sh -c 'echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google-chrome.list'
+            sudo wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+            sudo apt-get update
+            sudo apt-get install -y xvfb fluxbox ca-certificates fonts-liberation libappindicator3-1 libasound2 libatk-bridge2.0-0 libatk1.0-0 libc6 libcairo2 libcups2 libdbus-1-3 libexpat1 libfontconfig1 libgbm1 libgcc1 libglib2.0-0 libgtk-3-0 libnspr4 libnss3 libpango-1.0-0 libpangocairo-1.0-0 libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 libxtst6 lsb-release wget xdg-utils libdrm2 libxkbcommon0
+            sudo apt install google-chrome-stable
+      - run:
+          name: apply env vars
+          working_directory: .
+          command: |
+            echo "RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED=$RECOIL_DUPLICATE_ATOM_KEY_CHECKING_ENABLED" >> .env
+            echo "CYPRESS_E2E_WALLET_PRIVATE_KEY=$CYPRESS_E2E_WALLET_PRIVATE_KEY" >> .env
+            echo "CYPRESS_TREASURY_PRIVATE_KEY=$CYPRESS_TREASURY_PRIVATE_KEY" >> .env
+            echo "NEXT_PUBLIC_IS_MAINNET=$NEXT_PUBLIC_IS_MAINNET" >> .env
+      - run:
+          working_directory: .
+          name: Run Cypress E2E tests
+          command: |
+            yarn build
+            npm run e2e:headless
+      - run:
+          working_directory: .
+          name: Run Cypress component tests
+          command: |
+            yarn build
+            npm run component:headless
+      - store_artifacts:
+          path: cypress/results
+      - store_artifacts:
+          path: cypress/videos
+      - store_artifacts:
+          path: cypress/screenshots
+      - store_test_results:
+          path: cypress/results
+
+workflows:
+  version: 2
+  build_and_test:
+    jobs:
+      - build
+      - e2e-tests:
+          requires:
+            - build

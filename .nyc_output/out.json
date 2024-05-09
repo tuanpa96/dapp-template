@@ -1,0 +1,1667 @@
+{
+  "/Users/dungngo97/Documents/Renec/snowflake/cypress.config.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/cypress.config.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/next-env.d.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/next-env.d.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/atoms/appProgressState.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/atoms/appProgressState.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/atoms/appThemeState.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/atoms/appThemeState.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/atoms/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/atoms/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/constants/breakpoints.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/constants/breakpoints.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/constants/colors.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/constants/colors.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useLang.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useLang.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useLocalStorage.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useLocalStorage.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useMobileDetection.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useMobileDetection.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useResize.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useResize.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useTheme.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useTheme.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useTrans.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useTrans.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useWindowSize.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/hooks/useWindowSize.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/locales/en.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/locales/en.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/locales/vi.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/locales/vi.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/selectors/appThemeSelector.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/selectors/appThemeSelector.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/themes/button.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/themes/button.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/themes/font.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/themes/font.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/themes/main.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/themes/main.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/themes/palette.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/themes/palette.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/themes/themes.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/themes/themes.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/api.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/api.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/constants.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/constants.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/createEmotionCache.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/createEmotionCache.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/dataTypes.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/dataTypes.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/formatNumber.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/formatNumber.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/helpers.number.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/helpers.number.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/sendEventAmplitude.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/sendEventAmplitude.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/verifyCoreChange.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/verifyCoreChange.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/404/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/404/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/404/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/404/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/500/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/500/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/500/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/500/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/common.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/common.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewContactModal/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewContactModal/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewOwnerModal/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewOwnerModal/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addressBook/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addressBook/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/assets/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/assets/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/changePolicyModal/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/changePolicyModal/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/editOwnerModal/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/editOwnerModal/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/common.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/common.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/common.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/common.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/receiverModal/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/receiverModal/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/settings/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/settings/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/common.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/common.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/api/__coverage__.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/api/__coverage__.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/api/geo.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/api/geo.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/api/quotes.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/api/quotes.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/rpc.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/rpc.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/token.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/token.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/utils.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/utils.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/wallet.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/wallet.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/alertDialog/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/alertDialog/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/backgroundFrame/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/backgroundFrame/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/backgroundFrame/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/backgroundFrame/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/itemStartWithIcon/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/itemStartWithIcon/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/itemStartWithIcon/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/itemStartWithIcon/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/shareSocialNetwork/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/shareSocialNetwork/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/shareSocialNetwork/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/shareSocialNetwork/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/dashboard/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/dashboard/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/dashboard/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/dashboard/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/iconStep/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/iconStep/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepDetail/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepDetail/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepReview/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepReview/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/emptyList/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/emptyList/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/loading/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/loading/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/sideBar/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/sideBar/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/sideBar/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/sideBar/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/topBar/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/topBar/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/topBar/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/topBar/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/new/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/new/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/healer/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/cypress-support/healer/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/styles/darkStyles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/styles/darkStyles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/styles/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/styles/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/styles/lightStyles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/styles/lightStyles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/styles/darkStyles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/styles/darkStyles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/styles/index.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/styles/index.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/styles/lightStyles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/styles/lightStyles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafe/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafe/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafeAddon/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafeAddon/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/executionHistory/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/executionHistory/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/item/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/item/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/iconStep/styles.ts": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/iconStep/styles.ts",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/404.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/404.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/500.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/500.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_app.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_app.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_appProvider.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_appProvider.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_document.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_document.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_rootContainer.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/_rootContainer.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/utils/formatHelpers.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/utils/formatHelpers.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/404/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/404/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/500/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/500/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addExitsSafe/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewContactModal/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewContactModal/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewOwnerModal/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addNewOwnerModal/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/addressBook/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/addressBook/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/assets/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/assets/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/copyToClipboard.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/copyToClipboard.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/markdown.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/markdown.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/seo.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/seo.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/changePolicyModal/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/changePolicyModal/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/dashboard/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/dashboard/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/dashboard/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/dashboard/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/editOwnerModal/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/editOwnerModal/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/useCreateSafeState.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/useCreateSafeState.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/receiverModal/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/receiverModal/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/settings/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/settings/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/server-sitemap.xml/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/server-sitemap.xml/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/alertDialog/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/alertDialog/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/backgroundFrame/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/backgroundFrame/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/itemStartWithIcon/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/itemStartWithIcon/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/shareSocialNetwork/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/shareSocialNetwork/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tickButton/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/base/tooltip/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/dashboard/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/layout/dashboard/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/iconStep/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/iconStep/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/iconStep/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/iconStep/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepDetail/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepDetail/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepDetail/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepDetail/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/ownerRow.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/ownerRow.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepOwners/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepReview/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepReview/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepReview/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/newSafe/stepReview/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/emptyList/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/emptyList/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/emptyList/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/emptyList/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/langProvider/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/langProvider/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/loading/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/loading/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/multisigProvider/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/multisigProvider/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/bar.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/bar.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/container.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/container.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/progressBar.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/progressBar/progressBar.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/sideBar/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/sideBar/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/topBar/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/shared/topBar/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/new/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/new/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/new/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/new/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/address-book.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/address-book.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/assets.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/assets.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/settings.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/settings.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafe/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafe/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafe/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafe/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafeAddon/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafeAddon/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafeAddon/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/mySafe/listSafe/ItemSafeAddon/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/executionHistory/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/executionHistory/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/executionHistory/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/executionHistory/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/item/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/item/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/item/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/list/item/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/transactions/[transaction_address].tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/transactions/[transaction_address].tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/transactions/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/transactions/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/transactions/new.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/pages/safe/[safe_address]/transactions/new.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/iconStep/index.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/iconStep/index.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  },
+  "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/iconStep/view.tsx": {
+    "path": "/Users/dungngo97/Documents/Renec/snowflake/src/components/transactions/detail/statusEvent/iconStep/view.tsx",
+    "statementMap": {},
+    "fnMap": {},
+    "branchMap": {},
+    "s": {},
+    "f": {},
+    "b": {}
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "items": [
+    {
+      "id": 21,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "8CGNtHx78Lv2S39cK2PJDZrXoyHZFWQkZDZL2uJihm52",
+      "coin_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+      "token_name": "reUSD",
+      "token_symbol": "reUSD",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "status": "success",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry wrap.renec.org.",
+      "website": null,
+      "volume_24h": "123123123",
+      "pools": [
+        {
+          "pool_address": "57Cr19Gn3Qq1oc8nJs63yrDsoDn1ZYFwgqaR2WqLCfJy",
+          "token_a_mint_address": "So11111111111111111111111111111111111111112",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        },
+        {
+          "pool_address": "CYY6QDsFYqmJ2MtiS6EWbjnVR61EGWx89h9NfU7oK4Cw",
+          "token_a_mint_address": "DSodi59U9ZWRnVgP94VNnKamFybYpsqYj2iKL1jQF7Ag",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        },
+        {
+          "pool_address": "65y1HDCeiBiVjniAL76tc7t5H9oSiRNBuvo9d2feAzp2",
+          "token_a_mint_address": "9KnRz1XiM4EnPG7ziiYkhfsZJnv3MeyJ7nLU64JpLqx8",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        },
+        {
+          "pool_address": "7p8gez6GpcxUJBf6h31mmZvVe4E49LfmkHeiwmBx5YXP",
+          "token_a_mint_address": "CHe7TGhNzxpqiW6pdVJ2H2Mw5t7yHXTNyCfzJ1WFR5Dw",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01",
+          "total_liquidity": "1000.0"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "chain_name": "renec",
+      "chain_id": "mainnet",
+      "owner_address": "8CGNtHx78Lv2S39cK2PJDZrXoyHZFWQkZDZL2uJihm52",
+      "coin_address": "GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL",
+      "token_name": "BTC",
+      "token_symbol": "reBTC",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/GwGh3b7iNibT3gpGn6SwZA9xZme7Th4NZmuGVD75jpZL/logo.png",
+      "status": "success",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": []
+    },
+    {
+      "id": 13,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "8CGNtHx78Lv2S39cK2PJDZrXoyHZFWQkZDZL2uJihm52",
+      "coin_address": "So11111111111111111111111111111111111111112",
+      "token_name": "RENEC",
+      "token_symbol": "RENEC",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/4Q89182juiadeFgGw3fupnrwnnDmBhf7e7fHWxnUP3S3/logo.png",
+      "status": "success",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 9,
+      "pools": [
+        {
+          "pool_address": "57Cr19Gn3Qq1oc8nJs63yrDsoDn1ZYFwgqaR2WqLCfJy",
+          "token_a_mint_address": "So11111111111111111111111111111111111111112",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "8CGNtHx78Lv2S39cK2PJDZrXoyHZFWQkZDZL2uJihm52",
+      "coin_address": "DSodi59U9ZWRnVgP94VNnKamFybYpsqYj2iKL1jQF7Ag",
+      "token_name": "reVND",
+      "token_symbol": "reVND",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/DA22tiueni7Sm8eha7vkWPsEacpJWSPYr2HQfeh9upUp/logo.png",
+      "status": "success",
+      "description": "reVND is a token backed by reUSD. You can trade between reVND and VND with rate fixed at 1:1. Alternatively, you can mint reVND from reUSD via mint.renec.foundation",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 0,
+      "pools": [
+        {
+          "pool_address": "CYY6QDsFYqmJ2MtiS6EWbjnVR61EGWx89h9NfU7oK4Cw",
+          "token_a_mint_address": "DSodi59U9ZWRnVgP94VNnKamFybYpsqYj2iKL1jQF7Ag",
+          "token_b_mint_address": "Afy8qEgeJykFziRwiCk6tnBbd3uzxMoEqn2GTNCyGN7P",
+          "fee": "0.01"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "chain_name": "renec",
+      "chain_id": "testnet",
+      "owner_address": "8CGNtHx78Lv2S39cK2PJDZrXoyHZFWQkZDZL2uJihm52",
+      "coin_address": "CHe7TGhNzxpqiW6pdVJ2H2Mw5t7yHXTNyCfzJ1WFR5Dw",
+      "token_name": "reNGN",
+      "token_symbol": "reNGN",
+      "token_type": "core",
+      "logo_url": "https://raw.githubusercontent.com/renec-chain/rpl-token-registry/master/assets/mainnet/FhYxQy2GCsVK5rZgtvYDpKuytPXv2R34cPFQg3QDvjT7/logo.svg",
+      "status": "success",
+      "description": "reNGN is a token backed by reUSD, You can trade between reNGN and NGN with a rate fixed at 1:1.",
+      "website": null,
+      "volume_24h": "0",
+      "decimals": 0,
+      "pools": []
+    }
+  ]
+}

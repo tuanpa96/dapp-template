@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Disallow: /secret
+
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://resnow.renec.org
+
+# Sitemaps
+Sitemap: https://resnow.renec.org/sitemap.xml
+Sitemap: https://resnow.renec.org/server-sitemap.xml
